@@ -33,7 +33,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="https://github.com/shubhamjagtap96k"
+                href="https://x.com/shubhamJ96K?t=cV50VbTZNrI3cYyJdOGzfw&s=09"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
@@ -43,7 +43,7 @@ function Footer() {
             </li>
             <li className="social-icons">
               <a
-                href="hhttps://www.linkedin.com/in/shubham-jagtap-2342251b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBHyT85g7SZqiSMnzop63ng%3D%3D"
+                href="https://www.linkedin.com/in/shubham-jagtap-2342251b7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBHyT85g7SZqiSMnzop63ng%3D%3D"
                 style={{ color: "white" }}
                 target="_blank" 
                 rel="noopener noreferrer"
